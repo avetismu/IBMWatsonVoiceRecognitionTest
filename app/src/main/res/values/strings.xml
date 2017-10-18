@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IBM Watson Test</string>
+    <string name="record_instruction">Press Record Button and Speak!</string>
+    <string name="recording_msg">Recording!</string>
+</resources>
